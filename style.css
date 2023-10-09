@@ -42,7 +42,7 @@ body {
 
 .card:hover {
     transform: rotate(-5deg) scale(1.1);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 25px 20px 50px #54ff79;
 }
 
 .card__content {
